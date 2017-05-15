@@ -1,0 +1,3 @@
+http://reactivex.io/
+https://github.com/xgrommx/rx-book/blob/master/content/which_operator_do_i_use/creation_operators.md
+http://reactivex.io/documentation/operators.html
